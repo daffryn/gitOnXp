@@ -162,6 +162,3 @@ cython_debug/
 #.idea/
 
 .nix-shell/
-src/
-pyproject.toml
-tests/
